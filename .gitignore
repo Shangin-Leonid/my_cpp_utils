@@ -15,3 +15,7 @@ _log_*
 
 # files for debugging
 _debug_*
+
+# swp files
+*.swp
+
